@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=00D4FF&center=true&vCenter=true&width=540&lines=Hi+%F0%9F%91%8B%2C+I'm+Shriansh+Singh;AI+Engineer+%7C+Building+with+LLMs;Generative+AI+%E2%80%A2+Agentic+Systems+%E2%80%A2+RAG" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+Shriansh+Singh;AI+Engineer+%7C+Building+with+LLMs;Generative+AI+%E2%80%A2+Agentic+Systems+%E2%80%A2+RAG" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Jr. AI Engineer** at **Experiture**, building the AI & intelligence layer of a Customer Data Platform — from natural-language-to-SQL engines and MCP servers to predictive audience ML and crash-resumable evaluation pipelines.
+I'm an **AI Engineer** at **Experiture**, building the AI & intelligence layer of a Customer Data Platform — from natural-language-to-SQL engines and MCP servers to predictive audience ML and crash-resumable evaluation pipelines.
 
 - 🔭 Currently working on **agentic systems**, **RAG pipelines**, and **LLM observability**
 - 🌱 Deepening my craft in **context engineering**, **multi-agent orchestration**, and **LLM evaluation**
